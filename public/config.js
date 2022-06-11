@@ -37,17 +37,17 @@ window.Config = {
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
   // 不过时间不要设置太长，容易卡，接口请求也容易失败
-  CountDays: 60,
+  CountDays: 30,
 
   // 导航栏菜单
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://tjys.now.sh/'
+      url: 'https://0e4f09fe.uptime-bsu.pages.dev'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/qikaile/uptime-status'
+      text: '个人主页',
+      url: 'https://www.linkkkblog.top'
     }
   ]
 };
